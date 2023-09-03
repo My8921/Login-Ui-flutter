@@ -1,6 +1,6 @@
 # login_ui
 
-A new Flutter project.
+This is the simple design project of andriod i created this Ui design while learning flutter
 
 ## Getting Started
 
